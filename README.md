@@ -21,3 +21,5 @@ Aplicações
 7 - Sorteio de nomes: Ao pressionar o botão, é realizado um sorteio aleatório entre os nomes dos amigos cadastrados na lista, gerando o resultado;
 
 8 - Para começar um novo sorteio, por gentileza, recarregue a página;
+
+https://challenge-amigo-secreto-kohl.vercel.app/
